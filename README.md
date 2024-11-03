@@ -36,7 +36,7 @@ This project is a GUI-based Inventory Management System developed with Python's 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inventory-management.git
+   git clone https://github.com/RatneshKJaiswal/Robotics_Inventory
 
 
 # Project Gallery
