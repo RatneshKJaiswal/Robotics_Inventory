@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e9d4db-46b3-473c-9372-ea8f8dbd86f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Robotics_Inventory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robotics_Inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Robotics_Inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_file.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db_file.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ratnesh/Projects/Banana_Index",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +98,10 @@
       <option name="presentableId" value="Default" />
       <updated>1730280838493</updated>
       <workItem from="1730280839838" duration="7758000" />
-      <workItem from="1730347908084" duration="1731000" />
+      <workItem from="1730347908084" duration="2061000" />
+      <workItem from="1730557021773" duration="23000" />
+      <workItem from="1730696299782" duration="4865000" />
+      <workItem from="1731323033324" duration="17000" />
     </task>
     <servers />
   </component>
@@ -104,7 +109,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Robotics_Inventory$Robotics_Inventory.coverage" NAME="Robotics_Inventory Coverage Results" MODIFIED="1730349501406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Robotics_Inventory$Robotics_Inventory.coverage" NAME="Robotics_Inventory Coverage Results" MODIFIED="1730708277923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Robotics_Inventory$main.coverage" NAME="Robotics_Inventory Coverage Results" MODIFIED="1730295432603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
