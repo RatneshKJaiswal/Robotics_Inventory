@@ -180,9 +180,10 @@ def show_delete():
         result = cursor.fetchone()
         if result:
             product_name, quantity = result
+            # Log the transaction before deleting the product
+            log_transaction(product_id, quantity, 'delete', person_name, roll_number)
             cursor.execute("DELETE FROM inventory WHERE product_id = %s", (product_id,))
             db.commit()
-            log_transaction(product_id, quantity, 'delete', person_name, roll_number)
             messagebox.showinfo("Success", "Product deleted successfully.")
         else:
             messagebox.showwarning("Warning", "Product not found.")
