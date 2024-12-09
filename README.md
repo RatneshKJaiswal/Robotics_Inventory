@@ -41,3 +41,12 @@ This project is a GUI-based Inventory Management System developed with Python's 
 
 # Project Gallery
 
+![Screenshot from 2024-12-09 15-15-31](https://github.com/user-attachments/assets/b5ad4c02-5d66-4b39-ad92-9f423d771ad7) ![Screenshot from 2024-12-09 15-17-50](https://github.com/user-attachments/assets/2d44ac30-9345-443e-a221-cc15f2034ad0)
+
+![Screenshot from 2024-12-09 15-16-00](https://github.com/user-attachments/assets/e301877b-d17b-414a-9ecf-bf8756622704)
+
+![Screenshot from 2024-12-09 15-16-22](https://github.com/user-attachments/assets/b32807ee-3048-4ed5-be9f-94e8837d0d05)
+
+![Screenshot from 2024-12-09 15-17-17](https://github.com/user-attachments/assets/89c043f7-083e-4608-85a9-9ce657060a23)
+
+![Screenshot from 2024-12-09 15-16-55](https://github.com/user-attachments/assets/3b13839f-4d38-41a5-adf3-5d2ef4f731d5)
